@@ -1,10 +1,6 @@
 # 停车场收费管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ：**停车场1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -46,11 +42,4 @@
 
 ![修改订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182145906.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**停车场1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
